@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exoMenuKonoSekai")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae597b4c5a7f970154e3d2e49f0c2353548fd20b")]
 [assembly: System.Reflection.AssemblyProductAttribute("exoMenuKonoSekai")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exoMenuKonoSekai")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

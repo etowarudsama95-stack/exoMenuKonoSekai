@@ -1,0 +1,15 @@
+c:\Users\zacha\Documents\konosekai\exoMenuKonoSekai\bin\Debug\net10.0\exoMenuKonoSekai.exe
+c:\Users\zacha\Documents\konosekai\exoMenuKonoSekai\bin\Debug\net10.0\exoMenuKonoSekai.deps.json
+c:\Users\zacha\Documents\konosekai\exoMenuKonoSekai\bin\Debug\net10.0\exoMenuKonoSekai.runtimeconfig.json
+c:\Users\zacha\Documents\konosekai\exoMenuKonoSekai\bin\Debug\net10.0\exoMenuKonoSekai.dll
+c:\Users\zacha\Documents\konosekai\exoMenuKonoSekai\bin\Debug\net10.0\exoMenuKonoSekai.pdb
+c:\Users\zacha\Documents\konosekai\exoMenuKonoSekai\obj\Debug\net10.0\exoMenuKonoSekai.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\zacha\Documents\konosekai\exoMenuKonoSekai\obj\Debug\net10.0\exoMenuKonoSekai.AssemblyInfoInputs.cache
+c:\Users\zacha\Documents\konosekai\exoMenuKonoSekai\obj\Debug\net10.0\exoMenuKonoSekai.AssemblyInfo.cs
+c:\Users\zacha\Documents\konosekai\exoMenuKonoSekai\obj\Debug\net10.0\exoMenuKonoSekai.csproj.CoreCompileInputs.cache
+c:\Users\zacha\Documents\konosekai\exoMenuKonoSekai\obj\Debug\net10.0\exoMenuKonoSekai.sourcelink.json
+c:\Users\zacha\Documents\konosekai\exoMenuKonoSekai\obj\Debug\net10.0\exoMenuKonoSekai.dll
+c:\Users\zacha\Documents\konosekai\exoMenuKonoSekai\obj\Debug\net10.0\refint\exoMenuKonoSekai.dll
+c:\Users\zacha\Documents\konosekai\exoMenuKonoSekai\obj\Debug\net10.0\exoMenuKonoSekai.pdb
+c:\Users\zacha\Documents\konosekai\exoMenuKonoSekai\obj\Debug\net10.0\exoMenuKonoSekai.genruntimeconfig.cache
+c:\Users\zacha\Documents\konosekai\exoMenuKonoSekai\obj\Debug\net10.0\ref\exoMenuKonoSekai.dll
